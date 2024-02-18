@@ -32,3 +32,10 @@ How to Make YT Videos For Mark Bryan + Materials
 ## Sticker Preset
 
 -   Sticker Effect is used to move sticker across the screen
+
+## Colors
+
+-   Green: 14fb0c
+-   Yellow: faf107
+-   Red: DF4646
+-   Blue: 2bf8e7
